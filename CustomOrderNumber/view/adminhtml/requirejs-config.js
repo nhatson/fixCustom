@@ -20,7 +20,8 @@ var config = {
         	resetorder: 'Bss_CustomOrderNumber/js/resetorder',
             resetinvoice: 'Bss_CustomOrderNumber/js/resetinvoice',
             resetshipment: 'Bss_CustomOrderNumber/js/resetshipment',
-            resetcreditmemo: 'Bss_CustomOrderNumber/js/resetcreditmemo'
+            resetcreditmemo: 'Bss_CustomOrderNumber/js/resetcreditmemo',
+            'mage/adminhtml/form' : 'Bss_CustomOrderNumber/js/form'
         }
     }
 };
